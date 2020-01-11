@@ -1,6 +1,6 @@
-This script returns all the repositories from GitHub which use the API Iterator and generates a CSV-file with information of repositories.
+This script returns all the repositories from GitHub which use the API Iterator and generates a CSV-file with information of repositories. Data format as follows:
 
-
+**Data Format:** index | repository_name | file_url | commit_count | latest_commit_url
 
 **Prerequisites:**
 
