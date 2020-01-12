@@ -8,7 +8,7 @@ import csv
 
 
 #Oath Token used on the GraphQL end point 
-token = "Bearer 56c5c3dc7e7e1168a8e0878f909eeb1e16b14153"
+token = ""
 
 # the page size to be fetched at a time 
 pageSize = 10
