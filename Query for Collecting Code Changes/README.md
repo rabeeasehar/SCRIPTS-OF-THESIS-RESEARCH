@@ -6,8 +6,11 @@ This script returns CSV file with URL of all commits having code changes in Iter
 **Prerequisites:**
 
 JetBrains PyCharm needs to be installed
+
 Python 3.6 or above needs to be installed
+
 Install the requests package -- pip install requests
+
 Ensure that you don't have output.csv file in the directory where you want to execute the script from a previous run.
 
 
